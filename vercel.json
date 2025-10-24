@@ -9,3 +9,13 @@
     { "src": "/(.*)", "dest": "/index.html" }
   ]
 }
+
+project
+     |- src
+         | - pages
+         |- components
+         |-lib
+         |-data
+      |- api
+      |-dist
+      
