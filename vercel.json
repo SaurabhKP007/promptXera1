@@ -10,12 +10,4 @@
   ]
 }
 
-project
-     |- src
-         | - pages
-         |- components
-         |-lib
-         |-data
-      |- api
-      |-dist
-      
+
