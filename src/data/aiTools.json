@@ -1,0 +1,242 @@
+[
+  {
+    "id": "tool-001",
+    "name": "Perplexity AI",
+    "logo": "🔎",
+    "category": "AI Search / Research",
+    "useCase": "Developer & technical query search, real-time web answers, code & docs lookup",
+    "motivation": "Get instant, accurate answers with sources for technical queries and research",
+    "trending": true,
+    "website": "https://www.perplexity.ai"
+  },
+  {
+    "id": "tool-002",
+    "name": "ChatGPT",
+    "logo": "💬",
+    "category": "Conversational AI",
+    "useCase": "General conversation, coding help, writing assistance, problem-solving",
+    "motivation": "The most versatile AI assistant for everyday tasks and creative projects",
+    "trending": true,
+    "website": "https://chat.openai.com"
+  },
+  {
+    "id": "tool-003",
+    "name": "Claude",
+    "logo": "🤖",
+    "category": "Conversational AI",
+    "useCase": "Long-form content, analysis, coding, ethical AI interactions",
+    "motivation": "Best for thoughtful, nuanced responses and complex reasoning tasks",
+    "trending": true,
+    "website": "https://claude.ai"
+  },
+  {
+    "id": "tool-004",
+    "name": "Midjourney",
+    "logo": "🎨",
+    "category": "Image Generation",
+    "useCase": "Creating stunning AI art, concept designs, visual content for creative projects",
+    "motivation": "Industry-leading AI image generation for professional-quality artwork",
+    "trending": true,
+    "website": "https://www.midjourney.com"
+  },
+  {
+    "id": "tool-005",
+    "name": "DALL-E 3",
+    "logo": "🖼️",
+    "category": "Image Generation",
+    "useCase": "Generate images from text descriptions, product mockups, creative visuals",
+    "motivation": "OpenAI's latest image generator with improved accuracy and style",
+    "trending": false,
+    "website": "https://openai.com/dall-e-3"
+  },
+  {
+    "id": "tool-006",
+    "name": "GitHub Copilot",
+    "logo": "👨‍💻",
+    "category": "Code Assistant",
+    "useCase": "AI pair programming, code completion, function generation, debugging support",
+    "motivation": "Speed up development with intelligent code suggestions right in your IDE",
+    "trending": true,
+    "website": "https://github.com/features/copilot"
+  },
+  {
+    "id": "tool-007",
+    "name": "Cursor",
+    "logo": "⚡",
+    "category": "Code Assistant",
+    "useCase": "AI-powered code editor, codebase understanding, refactoring, generation",
+    "motivation": "Next-gen IDE with AI deeply integrated for faster, smarter coding",
+    "trending": true,
+    "website": "https://cursor.sh"
+  },
+  {
+    "id": "tool-008",
+    "name": "Jasper AI",
+    "logo": "✍️",
+    "category": "Content Writing",
+    "useCase": "Marketing copy, blog posts, social media content, ad campaigns",
+    "motivation": "Professional AI writing tool optimized for marketing and business content",
+    "trending": false,
+    "website": "https://www.jasper.ai"
+  },
+  {
+    "id": "tool-009",
+    "name": "Copy.ai",
+    "logo": "📝",
+    "category": "Content Writing",
+    "useCase": "Marketing content, product descriptions, email campaigns, social posts",
+    "motivation": "Quick, quality content generation for marketers and entrepreneurs",
+    "trending": false,
+    "website": "https://www.copy.ai"
+  },
+  {
+    "id": "tool-010",
+    "name": "Runway ML",
+    "logo": "🎬",
+    "category": "Video Generation",
+    "useCase": "AI video editing, generation, green screen removal, style transfer",
+    "motivation": "Create and edit videos with cutting-edge AI tools for content creators",
+    "trending": true,
+    "website": "https://runwayml.com"
+  },
+  {
+    "id": "tool-011",
+    "name": "Synthesia",
+    "logo": "🎥",
+    "category": "Video Generation",
+    "useCase": "AI avatar videos, training content, marketing videos without cameras",
+    "motivation": "Create professional videos with AI avatars in minutes, no filming needed",
+    "trending": false,
+    "website": "https://www.synthesia.io"
+  },
+  {
+    "id": "tool-012",
+    "name": "Notion AI",
+    "logo": "📚",
+    "category": "Productivity",
+    "useCase": "Note-taking assistant, content generation, task automation, summarization",
+    "motivation": "Enhance your productivity workflow with AI built into Notion",
+    "trending": false,
+    "website": "https://www.notion.so/product/ai"
+  },
+  {
+    "id": "tool-013",
+    "name": "Mem",
+    "logo": "🧠",
+    "category": "Productivity",
+    "useCase": "AI-powered note organization, knowledge management, automatic tagging",
+    "motivation": "Never lose track of your thoughts with intelligent note organization",
+    "trending": false,
+    "website": "https://get.mem.ai"
+  },
+  {
+    "id": "tool-014",
+    "name": "ElevenLabs",
+    "logo": "🎙️",
+    "category": "Voice AI",
+    "useCase": "Text-to-speech, voice cloning, audiobook creation, podcast production",
+    "motivation": "Generate ultra-realistic AI voices for any content",
+    "trending": true,
+    "website": "https://elevenlabs.io"
+  },
+  {
+    "id": "tool-015",
+    "name": "Murf AI",
+    "logo": "🗣️",
+    "category": "Voice AI",
+    "useCase": "Voiceover generation, presentations, e-learning content, video narration",
+    "motivation": "Professional AI voiceovers for videos and presentations",
+    "trending": false,
+    "website": "https://murf.ai"
+  },
+  {
+    "id": "tool-016",
+    "name": "Phind",
+    "logo": "🔍",
+    "category": "AI Search / Research",
+    "useCase": "Developer search engine, code examples, technical documentation lookup",
+    "motivation": "Search engine specifically designed for developers with AI-powered answers",
+    "trending": false,
+    "website": "https://www.phind.com"
+  },
+  {
+    "id": "tool-017",
+    "name": "You.com",
+    "logo": "🌐",
+    "category": "AI Search / Research",
+    "useCase": "Privacy-focused AI search, research, summarization, multi-source answers",
+    "motivation": "Search the web with AI while maintaining your privacy",
+    "trending": false,
+    "website": "https://you.com"
+  },
+  {
+    "id": "tool-018",
+    "name": "Tabnine",
+    "logo": "⌨️",
+    "category": "Developer Tools",
+    "useCase": "AI code completion, supports multiple languages, team training",
+    "motivation": "Privacy-first AI code assistant that learns from your codebase",
+    "trending": false,
+    "website": "https://www.tabnine.com"
+  },
+  {
+    "id": "tool-019",
+    "name": "Replit Ghostwriter",
+    "logo": "👻",
+    "category": "Developer Tools",
+    "useCase": "In-browser coding with AI assistance, code generation, debugging",
+    "motivation": "Code faster in Replit's online IDE with AI pair programming",
+    "trending": false,
+    "website": "https://replit.com/ai"
+  },
+  {
+    "id": "tool-020",
+    "name": "Stable Diffusion",
+    "logo": "🌈",
+    "category": "Image Generation",
+    "useCase": "Open-source image generation, custom model training, local deployment",
+    "motivation": "Free, open-source AI image generation you can run locally",
+    "trending": true,
+    "website": "https://stability.ai"
+  },
+  {
+    "id": "tool-021",
+    "name": "Grammarly",
+    "logo": "✔️",
+    "category": "Content Writing",
+    "useCase": "Grammar checking, writing improvement, tone detection, plagiarism check",
+    "motivation": "Write better with AI-powered grammar and style suggestions",
+    "trending": false,
+    "website": "https://www.grammarly.com"
+  },
+  {
+    "id": "tool-022",
+    "name": "Writesonic",
+    "logo": "🚀",
+    "category": "Content Writing",
+    "useCase": "Blog writing, ads, landing pages, product descriptions, SEO content",
+    "motivation": "Generate SEO-optimized content at scale for your business",
+    "trending": false,
+    "website": "https://writesonic.com"
+  },
+  {
+    "id": "tool-023",
+    "name": "Otter.ai",
+    "logo": "🦦",
+    "category": "Productivity",
+    "useCase": "Meeting transcription, note-taking, action item extraction, collaboration",
+    "motivation": "Never miss a detail in meetings with real-time transcription",
+    "trending": false,
+    "website": "https://otter.ai"
+  },
+  {
+    "id": "tool-024",
+    "name": "Descript",
+    "logo": "📹",
+    "category": "Video Generation",
+    "useCase": "Video editing through text, podcasting, screen recording, transcription",
+    "motivation": "Edit video as easily as editing a document",
+    "trending": false,
+    "website": "https://www.descript.com"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "comp-001",
+    "name": "Global Prompt Masters 2026",
+    "region": "Worldwide",
+    "date": "2026-01-15",
+    "prize": "$50,000",
+    "theme": "AI for Social Good",
+    "description": "Compete globally to create prompts that solve real-world social challenges",
+    "status": "upcoming",
+    "registrationOpen": true
+  },
+  {
+    "id": "comp-002",
+    "name": "Code Prompt Battle",
+    "region": "North America",
+    "date": "2025-12-01",
+    "prize": "$25,000",
+    "theme": "Developer Tools & Automation",
+    "description": "Build the most efficient code generation and debugging prompts",
+    "status": "upcoming",
+    "registrationOpen": true
+  },
+  {
+    "id": "comp-003",
+    "name": "Creative AI Showcase",
+    "region": "Europe",
+    "date": "2025-11-20",
+    "prize": "$30,000",
+    "theme": "Art & Storytelling",
+    "description": "Push the boundaries of creative content generation with AI",
+    "status": "upcoming",
+    "registrationOpen": true
+  },
+  {
+    "id": "comp-004",
+    "name": "Asia Pacific Prompt Championship",
+    "region": "Asia",
+    "date": "2026-02-10",
+    "prize": "$40,000",
+    "theme": "Business Innovation",
+    "description": "Create prompts that drive business value and innovation",
+    "status": "upcoming",
+    "registrationOpen": false
+  }
+]

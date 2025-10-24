@@ -1,0 +1,277 @@
+[
+  {
+    "id": "prompt-engineering-roadmap",
+    "title": "Prompt Engineering Competition Roadmap",
+    "description": "A structured, world-class learning roadmap for mastering prompt engineering from beginner to pro, designed to crack international competitions.",
+    "subtopics": [
+      {
+  "id": "beginner",
+  "title": "Stage 1: Beginner",
+  "content": {
+    "summary": "Master the global fundamentals of AI prompting — understanding how large language models interpret, respond, and generate information based on your input. This stage is designed for anyone new to prompting, whether you’re a student, educator, developer, or business professional.",
+    "whatYouLearn": [
+      "What is a Prompt: A detailed explanation of how a prompt acts as the instruction or question you give to an AI to generate meaningful responses.",
+      "How AI Understands Language: Learn that AI does not truly 'understand' like humans — it predicts text patterns based on data it has been trained on.",
+      "Core Components of a Prompt: Understand Role, Context, Objective, and Constraints — the 4 building blocks of every effective prompt.",
+      "Types of Prompts (Globally Used): Instruction prompts for tasks, Question prompts for exploration, Role-based prompts for personalization, and Few-shot examples for guiding style and tone.",
+      "The Art of Tone and Clarity: Learn to adjust tone (formal, friendly, persuasive, academic) to align AI outputs with specific audiences or use-cases.",
+      "Cultural and Global Relevance: Understand how context and phrasing vary across languages and cultures — ensuring prompts are respectful, inclusive, and globally understandable.",
+      "Evaluating Outputs: Learn to analyze AI responses for accuracy, bias, and global relevance — not just grammatical quality."
+    ],
+    "keyPoints": [
+      "AI models predict patterns, not meaning — your clarity and structure guide the prediction.",
+      "A prompt’s effectiveness depends on how well it defines the goal, context, and desired tone.",
+      "Building a prompt journal helps you experiment and refine your style over time.",
+      "Great prompt engineers test their prompts across multiple languages, cultures, and audiences for robustness.",
+      "Always think: 'Would a person from another culture understand my prompt clearly?'"
+    ],
+    "example": "Prompt: 'You are an environmental science teacher. Explain the process of photosynthesis to a 10-year-old using a short, creative story that includes a tree, sunlight, and a happy water droplet.'",
+    "exercise": "Pick a universal topic like climate change, technology, or food. Write 3 prompts targeting different audiences: (1) a school student, (2) a business professional, (3) a global audience. Compare how the AI adapts its responses.",
+    "proTip": "Global prompts perform best when you balance simplicity and depth — keep instructions clear but avoid cultural bias or regional slang.",
+    "commonMistake": "Using vague or culture-specific language without context, leading to outputs that may be misunderstood or irrelevant in global use."
+  }
+}
+,
+      {
+        "id": "apprentice",
+        "title": "Stage 2: Core Skills",
+        "content": {
+          "summary": "Master few-shot prompts, Chain-of-Thought, role-based prompting, and multi-turn conversations.",
+          "whatYouLearn": [
+            "Few-shot prompting",
+            "Chain-of-Thought (CoT) for reasoning",
+            "Role & persona prompting",
+            "Multi-turn conversations and context retention",
+            "Debugging ambiguous prompts"
+          ],
+          "keyPoints": [
+            "Consistency is key for reproducible outputs",
+            "Role-based prompts guide AI tone and perspective",
+            "Multi-turn context improves interaction quality"
+          ],
+          "example": "Prompt: 'You are a professional chef. Explain how to make a chocolate cake step by step.'",
+          "exercise": "Create 3 multi-turn role-based prompts for different personas.",
+          "proTip": "Build a small prompt template library.",
+          "commonMistake": "Ignoring context continuity in multi-turn prompts."
+        }
+      },
+      {
+        "id": "intermediate",
+        "title": "Stage 3: Strategic Techniques",
+        "content": {
+          "summary": "Apply reasoning, self-reflection, and structured prompt chains for complex AI tasks.",
+          "whatYouLearn": [
+            "Prompt chaining for multi-step tasks",
+            "Self-reflection prompts",
+            "Context stacking",
+            "Error correction & feedback loops",
+            "Comparative reasoning"
+          ],
+          "keyPoints": [
+            "Chain prompts logically for complex tasks",
+            "Reflection improves factual reliability",
+            "Maintain continuity across multi-turn prompts"
+          ],
+          "example": "Prompt chain:\n1️⃣ Generate 3 story ideas\n2️⃣ Evaluate each for creativity\n3️⃣ Summarize the best idea",
+          "exercise": "Design a 3-step prompt chain for writing, editing, and summarizing an article.",
+          "proTip": "Use AI feedback loops to improve outputs.",
+          "commonMistake": "Writing monolithic prompts for complex multi-step tasks."
+        }
+      },
+      {
+        "id": "advanced",
+        "title": "Stage 4: Competition Ready",
+        "content": {
+          "summary": "Learn cutting-edge techniques like ReAct, Tree-of-Thought, Self-Consistency, and hybrid methods.",
+          "whatYouLearn": [
+            "ReAct (Reason + Act)",
+            "Tree-of-Thought (ToT) reasoning",
+            "Self-Consistency decoding",
+            "Reflexion & meta-prompting",
+            "Few-shot + CoT hybrid methods",
+            "RAG-based knowledge grounding"
+          ],
+          "keyPoints": [
+            "Combine reasoning with real-world data",
+            "Explore multiple solution paths",
+            "Optimize for competition scoring"
+          ],
+          "example": "Prompt: 'Plan a 3-day trip. Think step-by-step and suggest optimal itinerary using external data.'",
+          "exercise": "Write a ReAct-style multi-step prompt for a planning or research task.",
+          "proTip": "Hybridize reasoning and retrieval for maximum accuracy.",
+          "commonMistake": "Skipping intermediate reasoning steps and jumping to final answers."
+        }
+      },
+      {
+        "id": "expert",
+        "title": "Stage 5: Expert",
+        "content": {
+          "summary": "Simulate human reasoning, meta-prompting, and advanced frameworks to excel in competitions.",
+          "whatYouLearn": [
+            "Socratic prompting",
+            "Deliberate reasoning & planning",
+            "Goal-oriented agent prompts",
+            "Dynamic context-aware adaptation",
+            "Reflection loops",
+            "Prompt frameworks (RICCE, APRICOT, COTE, CRISP, PEARL)"
+          ],
+          "keyPoints": [
+            "Treat AI as a thinking partner",
+            "Iteratively optimize and version prompts",
+            "Evaluate for coherence, factuality, diversity"
+          ],
+          "example": "Prompt: 'Explain your reasoning, critique it, and suggest one improvement.'",
+          "exercise": "Write a Socratic-style prompt for solving a complex problem.",
+          "proTip": "Use structured frameworks for reproducibility.",
+          "commonMistake": "Ignoring evaluation and self-reflection."
+        }
+      },
+      {
+        "id": "competition",
+        "title": "Stage 6: Competition Tactics",
+        "content": {
+          "summary": "Optimize prompts for speed, creativity, consistency, and scoring in competitions.",
+          "whatYouLearn": [
+            "Balance speed and accuracy",
+            "Maintain prompt libraries and templates",
+            "Benchmark outputs for challenge tasks",
+            "Iterative refinement",
+            "Creative and novel approaches"
+          ],
+          "keyPoints": [
+            "Efficiency + reproducibility = high scores",
+            "Use templates for quick deployment",
+            "Analyze competitor solutions for improvement"
+          ],
+          "example": "Template prompt library for common competition tasks (story, reasoning, summarization).",
+          "exercise": "Benchmark 5 prompts on a sample challenge task and refine based on results.",
+          "proTip": "Always test prompts under time constraints to simulate competition conditions.",
+          "commonMistake": "Focusing only on creativity without speed or consistency."
+        }
+      },
+      {
+        "id": "thought-leader",
+        "title": "Stage 7: Thought Leader",
+        "content": {
+          "summary": "Lead innovation in prompt engineering, create competitions, train teams, and explore multi-modal AI prompting.",
+          "whatYouLearn": [
+            "Designing AI competitions",
+            "Training teams and standardizing frameworks",
+            "Evaluation and continuous improvement",
+            "Multi-modal prompting",
+            "Emerging trends in cognitive AI"
+          ],
+          "keyPoints": [
+            "Innovation + leadership = industry impact",
+            "Documentation and standardization build teams",
+            "Continuously push AI reasoning boundaries"
+          ],
+          "example": "Design a challenge prompt that tests reasoning, creativity, and knowledge retrieval.",
+          "exercise": "Create a multi-step competition prompt with scoring criteria.",
+          "proTip": "Lead with research and collaboration.",
+          "commonMistake": "Failing to systematize frameworks for team scalability."
+        }
+      }
+    ]
+  },
+  {
+    "id": "prompt-techniques",
+    "title": "Prompt Techniques — From Basics to Advanced",
+    "description": "A comprehensive guide covering essential to advanced prompt engineering techniques used worldwide in AI systems and competitions.",
+    "subtopics": [
+      {
+        "id": "basic",
+        "title": "Basic Techniques",
+        "content": {
+          "summary": "Learn the foundation-level prompt methods that teach AI how to respond with accuracy, clarity, and alignment. Perfect for beginners or anyone building their first structured prompts.",
+          "techniques": [
+            {
+              "name": "Zero-Shot Prompting",
+              "explanation": "Zero-shot prompting means giving the AI a direct task without any example. The model must rely solely on its training to respond. It’s ideal for general questions and tasks where clear instructions suffice.",
+              "example": "Prompt: 'Translate the following sentence into French: I love learning AI.'"
+            },
+            {
+              "name": "Few-Shot Prompting",
+              "explanation": "Few-shot prompting improves reliability by showing the AI a few examples before the main query. This helps the model infer style, tone, or logic patterns from the examples.",
+              "example": "Prompt: 'Example 1: Convert 20°C to Fahrenheit → 68°F. Example 2: Convert 30°C to Fahrenheit → 86°F. Now convert 25°C to Fahrenheit.'"
+            },
+            {
+              "name": "Instruction Tuning and Alignment",
+              "explanation": "Instruction tuning is the process of aligning AI models to follow human instructions better. By writing clear and well-scoped prompts, users tap into the model’s fine-tuned behavior for instruction-based responses.",
+              "example": "Prompt: 'Summarize the article in one paragraph, focusing on causes and effects.'"
+            }
+          ],
+          "proTip": "Start simple — clear goals and short tasks help the AI align with your expectations.",
+          "commonMistake": "Asking complex or multi-layered questions without structure, leading to vague answers."
+        }
+      },
+      {
+        "id": "intermediate",
+        "title": "Intermediate Techniques",
+        "content": {
+          "summary": "Explore structured reasoning and self-improving prompts to elevate accuracy and interpretability. These techniques are vital for competitions and professional applications.",
+          "techniques": [
+            {
+              "name": "Chain-of-Thought (CoT) Prompting",
+              "explanation": "CoT encourages the model to reason step-by-step before answering. It reveals the AI’s reasoning process, improving factuality and logical flow.",
+              "example": "Prompt: 'Let’s think step-by-step: What is 25% of 240?'"
+            },
+            {
+              "name": "Self-Explanation Prompting",
+              "explanation": "This technique asks the AI to explain its own answer, strengthening reasoning transparency and teaching the user how it arrived at a conclusion.",
+              "example": "Prompt: 'Answer the question, then explain why your answer is correct.'"
+            },
+            {
+              "name": "Meta-Prompting",
+              "explanation": "Meta-prompting means prompting the AI to improve its own prompts. It involves instructions like ‘analyze this prompt and rewrite it for better results.’",
+              "example": "Prompt: 'Review this prompt for clarity and suggest an improved version that would yield more accurate results.'"
+            }
+          ],
+          "proTip": "Always verify reasoning — a detailed answer doesn’t always mean it’s correct.",
+          "commonMistake": "Overloading the AI with multiple reasoning tasks in a single step."
+        }
+      },
+      {
+        "id": "advanced",
+        "title": "Advanced Techniques",
+        "content": {
+          "summary": "Master advanced prompting frameworks and hybrid techniques to simulate human-like reasoning and build complex AI workflows. Ideal for competitions and research-grade projects.",
+          "techniques": [
+            {
+              "name": "Self-Consistency Prompting",
+              "explanation": "Instead of taking the first answer, this method samples multiple reasoning paths and selects the most consistent response. It enhances factuality and robustness.",
+              "example": "Prompt: 'Solve this math problem. Generate three possible reasoning paths and choose the most accurate answer.'"
+            },
+            {
+              "name": "Plan-to-Solve Prompting",
+              "explanation": "AI is instructed to plan its steps before solving a task, just like human problem-solving. This approach helps in multi-step or strategic reasoning problems.",
+              "example": "Prompt: 'First outline your plan to write an essay on climate change, then execute it.'"
+            },
+            {
+              "name": "Tool/Agent Prompting",
+              "explanation": "In this approach, the AI is guided to use external tools or act as an agent (like a calculator, coder, or researcher). It enhances utility in real-world tasks.",
+              "example": "Prompt: 'You are a data analyst with access to a calculator. Calculate the average of these numbers: 12, 24, 36.'"
+            },
+            {
+              "name": "Role-Based Prompting",
+              "explanation": "Assigns a role to the AI (e.g., teacher, developer, or journalist) to influence tone, depth, and style of responses. It creates consistency in output.",
+              "example": "Prompt: 'You are a Python instructor. Explain recursion using a simple analogy.'"
+            },
+            {
+              "name": "Dynamic Prompting",
+              "explanation": "Dynamic prompting adjusts instructions based on real-time inputs or responses. It’s used in AI chatbots and adaptive systems for continuous improvement.",
+              "example": "Prompt: 'If the user seems confused, simplify the explanation automatically in the next response.'"
+            },
+            {
+              "name": "Prompt Chaining / Prompt Pipelines",
+              "explanation": "Instead of one big prompt, tasks are split into smaller connected prompts where each output becomes the next input — creating structured workflows.",
+              "example": "Step 1: Generate a topic idea. Step 2: Write an outline. Step 3: Draft the article. Step 4: Summarize in 100 words."
+            }
+          ],
+          "proTip": "Advanced prompting = structured thinking. Treat your AI like a reasoning partner, not a simple tool.",
+          "commonMistake": "Skipping reasoning verification or merging too many tasks into one complex prompt."
+        }
+      }
+    ]
+  }
+]
